@@ -108,4 +108,3 @@ total:
 ---
 
 ---
-{"id":246297324,"author":{"login":"istudyatuni","id":43654815,"node_id":"MDQ6VXNlcjQzNjU0ODE1","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOL-xd-84OrjLs","tag_name":"v0.6.1","target_commitish":"main","name":"v0.6.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-09-10T20:24:52Z","updated_at":"2025-09-10T20:30:38Z","published_at":"2025-09-10T20:30:38Z","assets":[],"body":"This release is created only to update version in Cargo.toml. See full changelog in [v0.6.0](https://github.com/Cretezy/lazyjj/releases/tag/v0.6.0)"}
