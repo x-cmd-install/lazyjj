@@ -1,0 +1,171 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: arch
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+- repo: homebrew
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI for Jujutsu/jj
+- repo: liguros_stable
+  srcname: dev-vcs/lazyjj
+  visiblename: dev-vcs/lazyjj
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - demize@unstable.systems
+  licenses:
+    - Apache-2.0
+    - ISC
+    - MIT
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - dev-vcs
+- repo: liguros_develop
+  srcname: dev-vcs/lazyjj
+  visiblename: dev-vcs/lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - demize@unstable.systems
+  licenses:
+    - Apache-2.0
+    - ISC
+    - MIT
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - dev-vcs
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.4.2
+  origversion: null
+  status: outdated
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - cole.mickens@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - cole.mickens@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - cole.mickens@gmail.com
+    - gaetan@glepage.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - cole.mickens@gmail.com
+    - gaetan@glepage.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - cole.mickens@gmail.com
+    - gaetan@glepage.com
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: tur
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: null
+  status: newest
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - ahmadnaruto@github
