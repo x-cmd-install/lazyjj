@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.1"
   latestRelease: "v0.6.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:29:14Z
+  collectedAt: 2026-09-11T19:24:16Z
 timeline:
   created: 2024-05-21
   lastCommit: 2026-03-02
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-09-10
   lastPrerelease: 
 popularity:
-  star: 1208
+  star: 1209
   watcher: 9
   fork: 43
   release: 13
@@ -83,7 +83,7 @@ total:
   commit: 128
 ---
 path: /home/runner/.x-repo/github.com/Cretezy/lazyjj
-collectedAt: 2026-09-11T05:29:14Z
+collectedAt: 2026-09-11T19:24:18Z
 loc:
   Rust:
     code: 6704
