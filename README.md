@@ -4,7 +4,7 @@
 
 TUI for Jujutsu/jj
 
-![lazyjj](https://repo.x-cmd.io/lazyjj.svg)
+[![x-cmd/install — lazyjj Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyjj.svg)](https://x-cmd.com/install/lazyjj)
 
 ## Install
 
@@ -44,12 +44,12 @@ Total: **6,746** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-09-23 | 0 | 13 | 4 | 3 | 13 | 15 |
-| last720d | 2024-09-28 | 5 | 70 | 7 | 25 | 30 | 81 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-09-25 | 0 | 13 | 4 | 3 | 13 | 14 |
+| last720d | 2024-09-30 | 5 | 70 | 7 | 25 | 30 | 81 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for lazyjj lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:39:16Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:49:14Z._
