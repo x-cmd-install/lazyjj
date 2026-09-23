@@ -4,7 +4,7 @@
 
 TUI for Jujutsu/jj
 
-[![x-cmd/install — lazyjj Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazyjj.svg)](https://x-cmd.com/install/lazyjj)
+[![x-cmd/install — lazyjj Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lazyjj.svg)](https://x-cmd.com/install/lazyjj)
 
 ## Install
 
@@ -34,22 +34,22 @@ Total: **6,746** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,214 · **Forks**: 43 · **Open issues**: 86 · **Contributors**: 20
+- **Stars**: 1,215 · **Forks**: 43 · **Open issues**: 86 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 99 · **Open PRs**: 7 · **Closed issues**: 47 · **Open issues**: 39 · **Commits**: 128
+- **Releases**: 13 · **Merged PRs**: 99 · **Open PRs**: 6 · **Closed issues**: 47 · **Open issues**: 39 · **Commits**: 128
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-09-27 | 0 | 13 | 4 | 3 | 13 | 14 |
-| last720d | 2024-10-02 | 5 | 69 | 7 | 25 | 30 | 81 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-09-28 | 0 | 13 | 3 | 3 | 12 | 14 |
+| last720d | 2024-10-03 | 5 | 69 | 6 | 24 | 30 | 81 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for lazyjj lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:45:01Z._
