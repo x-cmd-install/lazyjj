@@ -14,13 +14,13 @@ x install lazyjj
 
 ## Code insight
 
-Total: **6,746** lines of code across **34** files in the top 5 languages.
+Total: **6,750** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,704 | 279 | 869 | 30 |
+| Rust | 6,708 | 279 | 870 | 30 |
 | Toml | 42 | 3 | 5 | 1 |
-| Markdown | 0 | 143 | 47 | 3 |
+| Markdown | 0 | 145 | 49 | 3 |
 
 ## Source
 
@@ -30,26 +30,26 @@ Total: **6,746** lines of code across **34** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.6.1` (2025-09-10)
-- **Last commit**: 2026-03-02
+- **Last commit**: 2026-09-24
 
 ## Popularity
 
-- **Stars**: 1,217 · **Forks**: 43 · **Open issues**: 86 · **Contributors**: 20
+- **Stars**: 1,217 · **Forks**: 43 · **Open issues**: 86 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 99 · **Open PRs**: 6 · **Closed issues**: 47 · **Open issues**: 39 · **Commits**: 128
+- **Releases**: 13 · **Merged PRs**: 100 · **Open PRs**: 6 · **Closed issues**: 47 · **Open issues**: 39 · **Commits**: 129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-09-29 | 0 | 12 | 3 | 3 | 12 | 0 |
-| last720d | 2024-10-04 | 5 | 69 | 6 | 24 | 30 | 81 |
+| 30d | 2026-08-26 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-27 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-27 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-29 | 0 | 1 | 1 | 0 | 4 | 1 |
+| 360d | 2025-09-30 | 0 | 13 | 3 | 3 | 12 | 15 |
+| last720d | 2024-10-05 | 5 | 70 | 6 | 24 | 30 | 82 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for lazyjj lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:31:46Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:55:11Z._
