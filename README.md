@@ -34,7 +34,7 @@ Total: **6,750** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,232 · **Forks**: 44 · **Open issues**: 86 · **Contributors**: 21
+- **Stars**: 1,231 · **Forks**: 44 · **Open issues**: 86 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -44,16 +44,16 @@ Total: **6,750** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-08 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-10 | 0 | 1 | 0 | 0 | 2 | 1 |
-| 360d | 2025-11-11 | 0 | 9 | 2 | 0 | 10 | 13 |
-| last720d | 2024-11-16 | 3 | 68 | 6 | 22 | 25 | 73 |
+| 30d | 2026-10-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-09 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-11 | 0 | 1 | 0 | 0 | 2 | 1 |
+| 360d | 2025-11-12 | 0 | 9 | 2 | 0 | 10 | 13 |
+| last720d | 2024-11-17 | 3 | 68 | 6 | 22 | 25 | 73 |
 
 ## Distribution status
 
-Reported by **12** distros on [repology.org](https://repology.org/project/lazyjj). **8** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **14** distros on [repology.org](https://repology.org/project/lazyjj). **10** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -70,4 +70,4 @@ Install metadata for lazyjj lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:24:10Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:47:07Z._
