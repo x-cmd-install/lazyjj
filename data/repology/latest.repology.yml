@@ -40,6 +40,28 @@
     - ZLIB
   categories:
     - dev-vcs
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: lazyjj
+  binname: lazyjj
+  visiblename: lazyjj
+  version: 0.6.1
+  origversion: 0.6.1-1
+  status: newest
+  summary: TUI for Jujutsu/jj
+  licenses:
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: lazyjj
