@@ -44,21 +44,21 @@ Total: **6,750** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-24 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-25 | 0 | 4 | 2 | 0 | 9 | 9 |
-| last720d | 2024-11-30 | 3 | 67 | 6 | 22 | 25 | 73 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-23 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-25 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-26 | 0 | 4 | 2 | 0 | 9 | 9 |
+| last720d | 2024-12-01 | 3 | 67 | 6 | 22 | 25 | 73 |
 
 ## Distribution status
 
-Reported by **14** distros on [repology.org](https://repology.org/project/lazyjj). **10** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/lazyjj). **11** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.6.1` | ✅ latest |
-| Homebrew | `0.6.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.6.1` | ✅ latest |
 
 ## Improve this data
@@ -70,4 +70,4 @@ Install metadata for lazyjj lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:04:48Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:48:14Z._
