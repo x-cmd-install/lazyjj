@@ -1,3 +1,27 @@
+- repo: liguros_stable
+  srcname: dev-vcs/lazyjj
+  visiblename: dev-vcs/lazyjj
+  version: 0.5.0
+  origversion: null
+  status: outdated
+  summary: TUI for Jujutsu/jj
+  maintainers:
+    - demize@unstable.systems
+  licenses:
+    - Apache-2.0
+    - ISC
+    - MIT
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - dev-vcs
+- repo: homebrew
+  srcname: lazyjj
+  visiblename: lazyjj
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI for Jujutsu/jj
 - repo: arch
   subrepo: extra
   srcname: lazyjj
@@ -16,30 +40,20 @@
   origversion: null
   status: newest
   summary: TUI for Jujutsu/jj
-- repo: homebrew
-  srcname: lazyjj
+- repo: macports
+  srcname: devel/lazyjj
+  binname: lazyjj
   visiblename: lazyjj
-  version: HEAD
+  version: 0.6.1
   origversion: null
-  status: rolling
-  summary: TUI for Jujutsu/jj
-- repo: liguros_stable
-  srcname: dev-vcs/lazyjj
-  visiblename: dev-vcs/lazyjj
-  version: 0.5.0
-  origversion: null
-  status: outdated
-  summary: TUI for Jujutsu/jj
+  status: newest
+  summary: TUI for the Jujutsu (jj) version control system
   maintainers:
-    - demize@unstable.systems
+    - herbygillot@github
   licenses:
-    - Apache-2.0
-    - ISC
-    - MIT
-    - Unicode-3.0
-    - ZLIB
+    - Apache-2
   categories:
-    - dev-vcs
+    - devel
 - repo: manjaro_stable
   subrepo: extra
   srcname: lazyjj
